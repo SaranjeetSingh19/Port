@@ -252,14 +252,14 @@ export const PROJECTS = [
   },
   {
     title: "Global Pay",
-    description: `Redefine modern web aesthetics with this immersive Razorpay-inspired interface—a seamless fusion of performance and 3D interactivity. Crafted with Tailwind CSS and Three.js, this page is more than a static display; it offers a fully rotatable 360° experience, elevated by Shadcn UI for a polished, responsive user journey.`,
+    description: `Redefine modern web aesthetics with this immersive Razorpay-inspired interface, a seamless fusion of performance and 3D interactivity. Crafted with Tailwind CSS and Three.js, this page is more than a static display; it offers a fully rotatable 360° experience, elevated by Shadcn UI for a polished, responsive user journey.`,
     image: "/razorx-thumbnail.png",
     video: "razorx-demo.mp4",
     // link: "https://example.com",
   },
   {
     title: "Glow AI",
-   description: `Revolutionize personal wellness with 'GlowAI'—an intelligent dermatological companion powered by a custom-trained LLM. Built on Next.js and deployed via serverless architecture, this tool is more than a simple chatbot; it delivers hyper-personalized routines and analysis with 92% accuracy, ensuring expert-level guidance in a responsive, modern interface.`,
+   description: `Revolutionize personal wellness with 'GlowAI' an intelligent dermatological companion powered by a custom-trained LLM. Built on Next.js and deployed via serverless architecture, this tool is more than a simple chatbot; it delivers hyper personalized routines and analysis with 92% accuracy, ensuring expert level guidance in a responsive, modern interface.`,
    image: "/glowai-thumbnail.png",
     video: "glowai-demo.mp4",
     // link: "https://example.com",
