@@ -17,14 +17,9 @@ export const Navbar = () => {
           href="#about-me"
           className="flex items-center mt-3"
         >
-          <Image
-            src="/s4-logo.png"
-            alt="Logo"
-            width={100}
-            height={100}
-            draggable={false}
-            className="cursor-pointer"
-          />
+          <h1 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-purple-400 via-pink-500 to-indigo-400 bg-clip-text text-transparent tracking-wide">
+  DevLance
+</h1>
           {/* <div className="hidden md:flex md:selffont-bold ml-[10px] text-gray-300">S4</div> */}
         </Link>
 
